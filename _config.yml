@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8036877
+  lightness: 0.7974792
+  brandStrength: 0.5300819
+  rhythmicContrast: 0.934002
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.1733188
+name: QQQ
